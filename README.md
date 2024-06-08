@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Marcel
+<a href="[https://linkedin.com](https://www.linkedin.com/in/marcelnguyen2021/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**SlzyDev/SlzyDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cloud Security Engineer with a profound interest in technology and a dedication to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To present a curated collection of personal projects, developments, and code samples. This repository reflects my passion for technology, commitment to continuous learning, and dedication to innovation.
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-CCP-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/-SAA-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</div>
